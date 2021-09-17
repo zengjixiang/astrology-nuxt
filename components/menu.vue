@@ -18,7 +18,7 @@
 
       <NuxtLink to="/login" class="justify">系統登入 | </NuxtLink>
 
-      <NuxtLink to="/info"  class="justify">占星資訊 | </NuxtLink>
+      <NuxtLink to="/planetinfo"  class="justify">占星資訊 | </NuxtLink>
 
       <NuxtLink to="/about" class="justify">關於作者 | </NuxtLink>
 
